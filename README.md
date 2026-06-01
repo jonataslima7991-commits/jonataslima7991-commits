@@ -1,18 +1,10 @@
 <div align="center">
 
 ```
-  ╔══════════════════════════════════════════════════════════════╗
-  ║  ⚙ ──────────────────────────────────────────────────── ⚙  ║
-  ║                                                              ║
-  ║      REACTOR: [ ████████████ ] ONLINE  ·  CALDEIRA: 94%     ║
-  ║                     ◉ ~ ~ ~ ◉                               ║
-  ║                    /  ██████  \    J A R V I S - P U N K    ║
-  ║                   |  ████████  |                            ║
-  ║                    \  ██████  /   S T A R K  S Y S T E M   ║
-  ║                     ◉ ~ ~ ~ ◉                               ║
-  ║                                                              ║
-  ║  ⚙ ──────────────────────────────────────────────────── ⚙  ║
-  ╚══════════════════════════════════════════════════════════════╝
+⚙━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━⚙
+       REACTOR [ ████████████ ] ONLINE
+       CALDEIRA: 94%  ·  JARVIS-PUNK  ·  BUILD_2026
+⚙━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━⚙
 ```
 
 # JONATAS OLIVEIRA DE LIMA
@@ -35,15 +27,15 @@
 ## `[ 01 ]` INICIALIZAÇÃO DO PERFIL
 
 ```python
-# jarvis_punk.py ─────────────────────────────────────────────
-const perfil = {
+# jarvis_punk.py
+perfil = {
     "operador"    : "Jonatas Oliveira de Lima",
     "base"        : "Santana de Parnaíba, SP 🇧🇷",
     "missão"      : "Transição → Análise de Dados",
     "formação"    : "Ciência de Dados — FATEC (2025–2028)",
     "background"  : "8 anos em ambiente industrial",
     "metodologias": ["CRISP-DM", "KDD", "Scrum"],
-    "idiomas"     : { PT: "nativo", EN: "B2 Intermediário" },
+    "idiomas"     : { "PT": "nativo", "EN": "B2 Intermediário" },
     "status"      : "🎯 Buscando estágio em Data Analytics"
 }
 ```
@@ -68,13 +60,11 @@ const perfil = {
 ## `[ 03 ]` MISSÕES CONCLUÍDAS
 
 ### ⚙ A Engenharia Reversa da Busca de Emprego
-> `2ª MOSTRA ACADÊMICA FATEC` `·` `GRUPO 8` `·` `MAR/2026` `·` em parceria com Guilherme Soares Santos
+> `2ª MOSTRA ACADÊMICA FATEC` `·` `GRUPO 8` `·` `MAR/2026`
+> em parceria com Guilherme Soares Santos
 
 ```
-┌──────────────────────┬──────────────────────┬──────────────────────┐
-│       9.360          │        93,2%          │         641          │
-│    vagas coletadas   │    ocultam salário    │    títulos únicos    │
-└──────────────────────┴──────────────────────┴──────────────────────┘
+  9.360 vagas  ·  93,2% ocultam salário  ·  641 títulos únicos
 
   ▸ 58,53% são bolsas acadêmicas — infla o volume aparente
   ▸ Analista de Dados: 1.823 vagas · média R$3.561/mês
@@ -99,19 +89,19 @@ Pesquisa bibliométrica sobre IA aplicada ao setor ambiental (2013–2025). Clus
 ## `[ 04 ]` HISTÓRICO DE CAMPO
 
 ```
-  ◈ PLURAL INDÚSTRIA GRÁFICA ──────────────────── [04/2018 — 02/2026]
+  ◈ PLURAL INDÚSTRIA GRÁFICA ─────────────── [04/2018 — 02/2026]
     MEIO OFICIAL DE ACABAMENTO · 7 anos e 11 meses
     ▸ Monitoramento de KPIs de produção e controle de metas
     ▸ Análise de fluxo de processos para redução de desperdícios
     ▸ 8 anos de estabilidade operacional em alta pressão
 
-  ◈ TÉCNICO DE HARDWARE & SOFTWARE ────────────── [07/2020 — 07/2024]
+  ◈ TÉCNICO DE HARDWARE & SOFTWARE ────────── [07/2020 — 07/2024]
     AUTÔNOMO · 4 anos e 1 mês
     ▸ Diagnóstico analítico e identificação de padrões de falha
     ▸ Gestão e migração de grandes volumes de dados
     ▸ Documentação técnica e rastreabilidade de ativos
 
-  ◈ SENAI SUZANA DIAS ─────────────────────────── [06/2014 — 06/2015]
+  ◈ SENAI SUZANA DIAS ─────────────────────── [06/2014 — 06/2015]
     ASSISTENTE ADMINISTRATIVO
     ▸ Relatórios gerenciais e governança de dados financeiros
 ```
@@ -120,13 +110,22 @@ Pesquisa bibliométrica sobre IA aplicada ao setor ambiental (2013–2025). Clus
 
 ## `[ 05 ]` PROTOCOLOS CERTIFICADOS
 
-| `ID` | Certificação | Emissor |
-|:---:|---|:---:|
-| `DSA` | Fundamentos de Python para Análise de Dados e Data Science | Data Science Academy |
-| `CISCO` | Introduction to Data Science | Cisco Networking Academy |
-| `CISCO` | Python Essentials | Cisco Networking Academy |
-| `CeV` | Python: Fundamentos e Lógica | Curso em Vídeo |
-| `HW` | Montagem e Manutenção de Computadores | Cursa |
+```
+  [ DSA   ]  Fundamentos de Python para Análise de Dados e Data Science
+             Data Science Academy
+
+  [ CISCO ]  Introduction to Data Science
+             Cisco Networking Academy
+
+  [ CISCO ]  Python Essentials
+             Cisco Networking Academy
+
+  [ CeV   ]  Python: Fundamentos e Lógica
+             Curso em Vídeo
+
+  [ HW    ]  Montagem e Manutenção de Computadores
+             Cursa
+```
 
 ---
 
@@ -134,8 +133,6 @@ Pesquisa bibliométrica sobre IA aplicada ao setor ambiental (2013–2025). Clus
 
 <div align="center">
 
-[![Gmail](https://img.shields.io/badge/@-jonataslima7991%40gmail.com-3a5060?style=for-the-badge&logo=gmail&logoColor=white&labelColor=050505)](mailto:jonataslima7991@gmail.com)
-[![WhatsApp](https://img.shields.io/badge/%23-(11)%2098578--8435-3a6040?style=for-the-badge&logo=whatsapp&logoColor=white&labelColor=050505)](https://wa.me/5511985788435)
 [![LinkedIn](https://img.shields.io/badge/in-LinkedIn-3a5878?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=050505)](https://www.linkedin.com/in/jonataslima7991)
 
 ---
