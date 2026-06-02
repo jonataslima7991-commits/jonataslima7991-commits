@@ -28,8 +28,7 @@ Apaixonado por transformar dados em **insights estratégicos** que geram valor r
 - 📈 Monitoramento de KPIs e apoio à tomada de decisão
 - 🤖 Introdução a modelos de Machine Learning
 - 📋 Elaboração de relatórios gerenciais e técnicos
-- 🗄️ Gestão e governança de dados e informações
-- 🔧 Otimização de processos industriais e fluxos operacionais
+
 
 ---
 
